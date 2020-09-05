@@ -1,5 +1,4 @@
 ---
-title: "Kim的个人博客"
-navbar: true
+pageClass: custom-page-class
 layout: resume
 ---
