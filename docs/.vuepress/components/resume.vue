@@ -114,10 +114,6 @@
                   <span class="itemValue">汽车服务工程</span>
                 </div>
                 <div class="itemWrap">
-                  <span class="itemLabel">主修课程：</span>
-                  <span class="itemValue">汽车销售、维修、保险</span>
-                </div>
-                <div class="itemWrap">
                   <span class="itemLabel">就读时间：</span>
                   <span class="itemValue">2012-09 ~ 2016-06</span>
                 </div>
@@ -698,7 +694,7 @@ export default {
     .rightItem{
       padding: 16px;
       border-radius: 6px;
-      background-color: #dbe3e5;
+      background-color: #f4f4f4;
       // box-sizing: border-box;
       // width: 100%;
       // height: 100%;
@@ -714,7 +710,7 @@ export default {
     padding: 16px;
     margin-bottom: 16px;
     border-radius: 6px;
-    background-color: #dbe3e5;
+    background-color: #f4f4f4;
   }
   .leftItem:last-child{
     margin-bottom: 0;
