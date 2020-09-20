@@ -1,5 +1,5 @@
 module.exports = {
-    base: "/blog",
+    base: "/blog/",
     title: 'Kim个人博客',
     themeConfig: {
       smoothScroll: true,

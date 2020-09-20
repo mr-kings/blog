@@ -8,12 +8,12 @@
     <div class="resumeTitle">个人简历</div>
     <div class="resumeContent">
       <div class="resumeTop">
-        <div class="avatarWrap">
+        <!-- <div class="avatarWrap">
           <div class="avatar">
             <img class="avatarImg" src="../public/img/avator.png" alt="">
           </div>
-        </div>
-        <div class="userInfoWrap">
+        </div> -->
+        <div class="userInfoWrap" style="margin-top:8px">
           <div class="userInfoItem">
             <div class="rightItem">
               <div class="itemTitle">
@@ -143,10 +143,10 @@
               1、熟练掌握HTML/HTML5、CSS/CSS3、JS、ES6等编程基础，了解浏览器运行原理及网络基础
             </p>
             <p class="teachItem">
-              2、熟练掌握工程化打包工具Webpack的配置及优化，以及Git版本管理的使用
+              2、熟练掌握前端工程化打包工具Webpack的配置及优化，以及Git版本管理的使用
             </p>
             <p class="teachItem">
-              3、熟练使用React、Vue主流框架并了解其核心原理，熟悉小程序、数据可视化开发技术
+              3、熟练使用React、Redux、Router、Vue并了解其核心原理，熟悉H5、小程序、数据可视化开发技术
             </p>
             <p class="teachItem">
               4、熟悉项目的搭建、部署流程，熟悉nginx的基本配置及Linux日常使用命令
@@ -169,10 +169,10 @@
               1、4年前端开发，具备丰富的实战经验，以及良好的逻辑思维和编码习惯，能独立负责项目的开发及迭代维护
             </p>
             <p class="teachItem">
-              2、具备良好的分析问题和解决问题的能力以及沟通、团队协作能力，较强的工作热情与主动性，自驱力及责任心强
+              2、具备良好的分析问题和解决问题以及沟通、团队协作能力，有较强的工作热情与主动性，自驱力及责任心强
             </p>
             <p class="teachItem">
-              3、对技术有浓厚兴趣，乐于学习，拥抱新技术，敢于承担项目中重点、难点的技术攻克，愿意接受新挑战
+              3、学习能力强，拥抱新技术，做事稳重，重视细节和结果，勇于承担项目中重点、难点的技术攻克，愿意接受新挑战
             </p>
           </div>
         </div>
@@ -202,21 +202,21 @@
                 <span class="itemValue">2019-03 ~ 至今</span>
               </p>
             </div>
-            <p class="teachItem">
+            <!-- <p class="teachItem">
               <span class="itemLabel">前端团队：</span>
               <span class="itemValue">13人</span>
-            </p>
+            </p> -->
             <div class="descItem">
               <div class="descLabel">工作描述：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责团队重点产品核心功能的研发，开发涉及管理后台、大屏数据可视化、小程序，以及历史项目的迭代维护
+                  1、负责团队重点产品核心功能的研发，开发涉及管理后台、H5应用、大屏数据可视化、小程序，以及历史项目的迭代维护
                 </p>
                 <p class="descValue">
-                  2、作为前端核心成员，负责公共组件的开发，承担项目中重点、难点的技术攻克，以及负责团队技术问题解答
+                  2、作为前端核心成员，承担项目中重点、难点的技术攻克，对团队所遇技术问题提供支持
                 </p>
                 <p class="descValue">
-                  3、带小团队进行业务开发，负责框架搭建以及项目优化、上线部署等相关工作，确保项目按时高质量完成交付
+                  3、带小团队进行业务开发，参与需求评审，制定开发计划，合理排期推进项目，确保项目按时高质量完成交付
                 </p>
               </div>
             </div>
@@ -243,15 +243,15 @@
                 <span class="itemValue">2018-08 ~ 2019-03</span>
               </p>
             </div>
-            <p class="teachItem">
+            <!-- <p class="teachItem">
               <span class="itemLabel">前端团队：</span>
               <span class="itemValue">1人</span>
-            </p>
+            </p> -->
             <div class="descItem">
               <div class="descLabel">工作描述：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责公司所有前端项目的开发及维护，解决项目上遇到的各种问题，一个人扛下所有前端工作
+                  1、负责公司所有前端项目的开发及维护，解决项目上遇到的各种问题，以及负责面试前端新人
                 </p>
                 <p class="descValue">
                   2、负责公司官网的维护与优化，国外导购平台的重构开发，涉及前台展示及后台管理，包含toB、toC业务
@@ -284,10 +284,10 @@
                 <span class="itemValue">2016-07 ~ 2018-08</span>
               </p>
             </div>
-            <p class="teachItem">
+            <!-- <p class="teachItem">
               <span class="itemLabel">前端团队：</span>
               <span class="itemValue">1人</span>
-            </p>
+            </p> -->
             <div class="descItem">
               <div class="descLabel">工作描述：</div>
               <div class="itemValue">
@@ -351,6 +351,44 @@
             <div class="oneline">
               <p class="teachItem onelineItem">
                 <span class="itemLabel">项目名称：</span>
+                <span class="itemValue">随手拍举报</span>
+              </p>
+              <p class="teachItem onelineItem">
+                <span class="itemLabel">担任角色：</span>
+                <span class="itemValue">负责维护及迭代开发</span>
+              </p>
+            </div>
+            <p class="teachItem">
+              <span class="itemLabel">开发时间：</span>
+              <span class="itemValue">2020-04 ~ 2020-08</span>
+            </p>
+            <div class="descItem">
+              <div class="descLabel">工作内容：</div>
+              <div class="itemValue">
+                <p class="descValue">
+                  1、负责维护已上线的随手拍举报项目，并且根据不同城市的需求进行定制化开发新版本
+                </p>
+                <p class="descValue">
+                  2、使用原生的微信小程序开发框架，熟悉其开发结构和模式，根据客户的反馈，对项目进行体验优化
+                </p>
+                <p class="descValue">
+                  3、掌握小程序开发构建部署完整的流程，能够很好的完成项目交付
+                </p>
+              </div>
+            </div>
+            <p class="teachItem">
+              <span class="itemLabel">相关技术：</span>
+              <span class="itemValue">
+                原生微信小程序、腾讯地图、刷脸认证
+              </span>
+            </p>
+          </div>
+
+          <hr>
+          <div class="itemContent">
+            <div class="oneline">
+              <p class="teachItem onelineItem">
+                <span class="itemLabel">项目名称：</span>
                 <span class="itemValue">信号优化等信控产品子系统</span>
               </p>
               <p class="teachItem onelineItem">
@@ -366,10 +404,10 @@
               <div class="descLabel">工作内容：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责项目上核心模块，以及复杂组件的开发
+                  1、负责项目的核心模块，以及复杂组件的开发
                 </p>
                 <p class="descValue">
-                  2、运用D3实现了绿波优化工具、流量图、配时方案图等重点、难点的技术攻克
+                  2、运用D3实现绿波优化工具、流量图、配时方案图等重点、难点的技术攻克
                 </p>
                 <p class="descValue">
                   3、开发团队内部使用的数据录入配置工具，提升团队工作效率,为产品上线与维护提供技术支持
@@ -389,35 +427,32 @@
             <div class="oneline">
               <p class="teachItem onelineItem">
                 <span class="itemLabel">项目名称：</span>
-                <span class="itemValue">随手拍举报</span>
+                <span class="itemValue">公交优先系统</span>
               </p>
               <p class="teachItem onelineItem">
                 <span class="itemLabel">担任角色：</span>
-                <span class="itemValue">负责维护及迭代开发</span>
+                <span class="itemValue">核心功能模块的开发</span>
               </p>
             </div>
             <p class="teachItem">
               <span class="itemLabel">开发时间：</span>
-              <span class="itemValue">2020-04 ~ 2020-08</span>
+              <span class="itemValue">2019-6 ~ 2020-12</span>
             </p>
             <div class="descItem">
               <div class="descLabel">工作内容：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责维护已上线的随手拍举报项目，并且根据不同城市的需求进行定制化开发新版本
+                  1、负责项目的大屏数据可视化模块开发，涉及不同的皮肤切换，websocket实时通信，页面响应式适配
                 </p>
                 <p class="descValue">
-                  2、使用原生的微信小程序开发框架，熟悉其开发结构和模式
-                </p>
-                <p class="descValue">
-                  3、掌握小程序开发构建部署完整的流程
+                  2、对负责的模块能够完成高质量交付，ui还原度高，项目中引入动画交互，提升用户体验
                 </p>
               </div>
             </div>
             <p class="teachItem">
               <span class="itemLabel">相关技术：</span>
               <span class="itemValue">
-                原生微信小程序、腾讯地图、刷脸认证
+                React、Antv、凯立德地图、Websocket
               </span>
             </p>
           </div>
@@ -576,7 +611,7 @@ export default {
             }
           }
         }
-        pdf.save("谢顶金求职简历.pdf");
+        pdf.save("谢顶金个人简历.pdf");
       });
     }
   }
