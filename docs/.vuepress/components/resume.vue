@@ -30,13 +30,14 @@
                   <span class="itemValue">男</span>
                 </div>
                 <div class="itemWrap lineHeight">
-                  <span class="itemLabel">名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;族：</span>
-                  <span class="itemValue">仫佬族</span>
+                  <span class="itemLabel">年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</span>
+                  <span class="itemValue">27</span>
                 </div>
-                <div class="itemWrap lineHeight">
+                
+                <!-- <div class="itemWrap lineHeight">
                   <span class="itemLabel">出生年月：</span>
                   <span class="itemValue">1993.07</span>
-                </div>
+                </div> -->
                 <!-- <div class="itemWrap">
                   <span class="itemLabel">工作经验：</span>
                   <span class="itemValue">4年</span>
@@ -44,6 +45,10 @@
                 <div class="itemWrap lineHeight">
                   <span class="itemLabel">电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：</span>
                   <span class="itemValue">18576648902</span>
+                </div>
+                <div class="itemWrap lineHeight">
+                  <span class="itemLabel">微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：</span>
+                  <span class="itemValue">18378311282</span>
                 </div>
                 <div class="itemWrap lineHeight">
                   <span class="itemLabel">邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：</span>
@@ -155,7 +160,7 @@
               5、熟悉项目的搭建、开发、部署流程，熟悉nginx的基本配置及Linux日常使用命令
             </p>
             <p class="teachItem">
-              6、了解NodeJs、TS、GraphQL开发方式，以及前端性能优化、web安全相关技术
+              6、了解NodeJs、TypeScript、GraphQL开发方式，以及前端性能优化、web安全相关技术
             </p>
             <p class="teachItem">
               7、了解原生移动应用跨平台技术Flutter、React Native，小程序跨平台技术Taro、uni-app
@@ -219,7 +224,7 @@
                   2、作为开发组长，主要负责参与需求评审，制定开发计划，合理排期推进项目，code review，确保项目按时高质量完成交付
                 </p>
                 <p class="descValue">
-                  3、参与团队产品核心模块的研发，开发主要涉及pc管理后台、大屏数据可视化、小程序、H5应用，以及历史项目的优化升级
+                  3、参与团队产品核心模块的研发，为团队在开发过程中遇到问题提供解决思路及技术支持，学习新技术并运用到项目上
                 </p>
               </div>
             </div>
@@ -312,6 +317,53 @@
             <img class="itemIcon" src="../public/img/_xiangmujingyan.svg" alt="">
             项目经验
           </div>
+           <div class="itemContent">
+            <div class="oneline">
+              <p class="teachItem onelineItem">
+                <span class="itemLabel">项目名称：</span>
+                <span class="itemValue">桐乡交通大脑</span>
+              </p>
+              <p class="teachItem onelineItem">
+                <span class="itemLabel">担任角色：</span>
+                <span class="itemValue">业务开发、性能优化</span>
+              </p>
+            </div>
+            <p class="teachItem">
+              <span class="itemLabel">开发时间：</span>
+              <span class="itemValue">2020-11 ~ 2020-12</span>
+            </p>
+            <div class="descItem">
+              <div class="descLabel">项目简介：</div>
+              <div class="itemValue">
+                桐乡交通大脑项目主要是城市交通大屏数据中台，以可视化的方式展示城市交通的实时动态，业务主要包括城市交通总览，交通态势，车辆研判，非机动车，信号控制，交通设备，涵盖了交通路况、干道、路口、设备、机动车追踪以及非机动违规等，方便指挥人员掌握实时交通情况，便于数据分析，提升办公效率
+              </div>
+            </div>
+            <div class="descItem">
+              <div class="descLabel">工作内容：</div>
+              <div class="itemValue">
+                <p class="descValue">
+                  1、负责信号管控模块、城市总览模块部分的业务开发，以及响应式框架的优化
+                </p>
+                <p class="descValue">
+                  2、项目难点部分攻坚，通过d3技术解决了路口渠化图效果问题，使用css特性实现地图热力效果
+                </p>
+                <p class="descValue">
+                  3、参与性能优化工作，解决了路况数据过大造成的卡顿问题，解决项目编译时间过长等问题
+                </p>
+                <p class="descValue">
+                  4、推崇模块化开发方式，降低模块间的耦合度，功能独立化，方便项目间的复用
+                </p>
+              </div>
+            </div>
+            <p class="teachItem">
+              <span class="itemLabel">相关技术：</span>
+              <span class="itemValue">
+                react、mobx、react-router、axios、d3、echart、webpack、less
+              </span>
+            </p>
+          </div>
+
+          <hr>
           <div class="itemContent">
             <div class="oneline">
               <p class="teachItem onelineItem">
@@ -336,20 +388,20 @@
               <div class="descLabel">工作内容：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、负责项目的需求分析、技术选型、框架搭建、开发实现、部署上线、调优升级等工作
+                  1、负责项目的需求评审、技术选型、框架搭建、开发实现、部署上线、调优升级等工作
                 </p>
                 <p class="descValue">
-                  2、负责整个项目的跟进，熟练掌握开发到上线的全流程，开发过程中融入新技术，掌握新的开发方式
+                  2、负责构建项目上线流程配置，编写脚本实现自动化部署，开发过程中融入新技术graphql进行模拟数据调试
                 </p>
                 <p class="descValue">
-                  3、项目属于大屏可视化，应用相关数据可视化及响应式布局技术，通过动效交互，提升用户体验
+                  3、自定义框架响应式方式，使之兼容不同分辨率的设备，运用动效交互，提升用户体验
                 </p>
               </div>
             </div>
             <p class="teachItem">
               <span class="itemLabel">相关技术：</span>
               <span class="itemValue">
-                react hook、react-router、axios、antv、Ts、ant-design、webpack、less
+                react hook、Ts、react-router、axios、antv、ant-design、webpack、less
               </span>
             </p>
           </div>
@@ -380,10 +432,10 @@
               <div class="descLabel">工作内容：</div>
               <div class="itemValue">
                 <p class="descValue">
-                  1、运用D3可视化技术实现绿波优化工具、流量图、路口渠化图、配时方案图等重、难点的技术攻克
+                  1、运用D3可视化技术实现交通绿波优化工具、流量图、动态相位图等重、难点的技术攻克
                 </p>
                 <p class="descValue">
-                  2、负责项目核心模块的开发，能够高度还原ui设计稿，引入动效及图形，直观展示交通指标效果
+                  2、负责项目核心模块的开发，能够高度还原ui设计稿，引入动效及图形，达到直观展示交通指标效果
                 </p>
                 <p class="descValue">
                   3、为团队内部开发路口配置数据录入配置工具，提升团队工作效率，为产品上线与维护提供技术支持
